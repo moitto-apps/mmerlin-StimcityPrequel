@@ -1,0 +1,7 @@
+import themes.sbss
+
+#img_title: width=0.6ph*51/200, height=0.6ph, position=abs, gravity=top-right, x=-40dp, y=1sbh+50dp-20dp
+
+/header/title: display=block, position=abs, gravity=top, y=1sbh+50dp, margin="0 0.1pw", \
+        font-family=$SERIF_LIGHT, font-size=2.2, text-color=$WHITE_COLOR, \
+        padding="0 0.5em 1.2em 0.5em", paragraph-spacing=0.2em

@@ -1,0 +1,9 @@
+=begin header
+
+=begin title
+${display-title}
+=end title
+
+=object image: filename=title_white.png, style=img_title
+
+=end header
